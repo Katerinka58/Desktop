@@ -1,0 +1,14 @@
+/Users/ekaterina/Desktop/laba2/bin/Debug/net8.0/laba2
+/Users/ekaterina/Desktop/laba2/bin/Debug/net8.0/laba2.deps.json
+/Users/ekaterina/Desktop/laba2/bin/Debug/net8.0/laba2.runtimeconfig.json
+/Users/ekaterina/Desktop/laba2/bin/Debug/net8.0/laba2.dll
+/Users/ekaterina/Desktop/laba2/bin/Debug/net8.0/laba2.pdb
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.AssemblyInfo.cs
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.dll
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/refint/laba2.dll
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.pdb
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/laba2.genruntimeconfig.cache
+/Users/ekaterina/Desktop/laba2/obj/Debug/net8.0/ref/laba2.dll
